@@ -1,6 +1,7 @@
 # 🤖 Chat OpenAI con Gradio
 
-Una aplicación interactiva para chatear con modelos de lenguaje de OpenAI usando una interfaz web creada con Gradio. 
+Una aplicación interactiva para chatear con modelos de lenguaje de OpenAI usando una interfaz web creada con Gradio.
+
 El proyecto tiene una estructura modular, permitiendo fácil expansión y personalización.
 
 
