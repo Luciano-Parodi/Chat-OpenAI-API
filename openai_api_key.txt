@@ -1,0 +1,1 @@
+Inserte tu OpenAI API Key en este documento y mantengalo con el nombre "openai_api_key.txt"
