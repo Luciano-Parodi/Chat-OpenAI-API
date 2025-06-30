@@ -30,7 +30,3 @@ El proyecto tiene una estructura modular, permitiendo fácil expansión y person
 ## 🛡️ Seguridad
 ⚠️ Asegurate de que openai_api_key.txt esté en tu .gitignore para evitar exponer tu clave de API ⚠️
 
-## 👨‍💻 Autor
-Desarrollado por **Luciano Parodi**
-
-Con pasión por Python, la IA y las interfaces simples.
